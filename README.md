@@ -1,6 +1,6 @@
-# Neural dependecy parser
+# Neural dependency parser
 
-A neural network based dependency parser that uses 50-dimensional vector space embeddings for words, POS-tags, and arc-labels. Following [Chen and Manning (2014)](literature/Chen_Manning.pdf). See the [final report](final-report.pdf) or the [presentation](presentation.pdf) for our findings. Joint work with [Daan van Stigt](https://github.com/daandouwe).
+A neural network based dependency parser that uses 50-dimensional vector space embeddings for words, POS-tags, and arc-labels. Following [Chen and Manning (2014)](literature/Chen_Manning.pdf). See the [final report](final-report.pdf) or the [presentation](presentation.pdf) for our findings. Joint work with [Daan van Stigt](https://github.com/daandouwe). Final project for UvA course Natural Language Processing 1. 
 
 ## Requirements
 ```
